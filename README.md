@@ -1,1 +1,1 @@
-# Introduction-to-the-Programmable-World
+# study-schedule-bot
